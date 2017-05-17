@@ -1,0 +1,13 @@
+{
+  "author": {
+    "name": "Philip Jurke",
+    "email": "Philip.Jurke@outlook.de"
+  },
+  "bugs": "https://github.com/radio-heat/rh-application-server/issues",
+  "description": "The RadioHeat application server based on typescript.",
+  "keywords": [ "radio-heat", "application server", "app-server" ],
+  "main": "app.js",
+  "name": "@radio-heat/rh-application-server",
+  "repository": "radio-heat/rh-application-server",
+  "version": "0.0.0"
+}
